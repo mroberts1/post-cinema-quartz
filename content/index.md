@@ -5,19 +5,6 @@ description: "Afterlives of a Global Cultural Form in the Post-Cinematic Age"
 
 ![](img/TimeStretched_46.jpg)
 
-> [!info] Course Info
-> VM300-03
-> [Department of Visual & Media Arts](https://emerson.edu/academics/academic-departments/visual-media-arts)
-> [Emerson College](https://emerson.edu/)
-> Spring Semester 2026
-> Wed 14 Jan–Wed 29 April 2026
-> 14:00–17:45
-> [Dr. Martin Roberts](http://mroberts1.github.io/)
-> Office Hour: TBA
-> [YouTube playlist](https://www.youtube.com/playlist?list=PL3uFXkpHLYM6EmE6yxN-NcYVFqoOnPGzR)
-> [YouTube playlist – student](https://youtube.com/playlist?list=PL3uFXkpHLYM4Y01MlQrbOY8c59AW3t5Gb&si=q3qC80RAbX03pjx7)
-> ✉️ [martin_roberts@emerson.edu](mailto:martin_roberts@emerson.edu) | 🐘 [Mastodon](https://merveilles.town/@dokoissho) | [GitHub](https://github.com/mroberts1/) | [Twitter](https://twitter.com/mroberts_vma)
-
 ## Overview
 
 Before Netflix, before Film TikTok, before AI movies, what was "Cinema," and what is left of it today? This course explores the many afterlives of cinema in what has been called the post-cinematic age, when the twentieth-century cultural dominance of film and television has been displaced by video games, social media platforms, and today's algorithmic technologies. Contrary to the endless proclamations of its demise, the course suggests, cinema today is proving to be surprisingly resilient in the face of the rapid technological and social transformations of the twenty-first century. Challenging the concept of the post-cinematic, the course focuses not only on the continuing development of film production and distribution infrastructures around the globe but also the persistence of the cinematic as a global cultural form and aesthetic, from Marvel's cinematic universe to cinematic VR and now cinematic AI. As Hollywood and other film industries worldwide scramble yet again to adjust to the arrival of another disruptive technology, the course suggests that far from heralding the end of cinema, AI may turn out to have been the beginning of a new chapter in its long and turbulent history.
